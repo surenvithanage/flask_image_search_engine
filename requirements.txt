@@ -22,7 +22,7 @@ opencv-python-headless==4.2.0.32
 pandas==1.0.0
 pbr==5.4.4
 Pillow==7.0.0
-pipenv==2020.6.2
+pipenv==2022.1.8
 PyAutoGUI==0.9.48
 PyGetWindow==0.0.8
 PyMsgBox==1.0.7
